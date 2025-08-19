@@ -1,3 +1,4 @@
+//1.Criar um vetor com 10 idades e exibir em tela as idades maiores 18 anos
 import java.util.Scanner;
 public class Idade {
     public static void main(String[] args) {
@@ -16,3 +17,4 @@ public class Idade {
         } 
     }
 }
+
